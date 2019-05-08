@@ -24,7 +24,7 @@ You will find barectf interesting if:
 
 The target audience of barectf is developers who need to trace [bare
 metal](https://en.wikipedia.org/wiki/Bare_machine) systems. The code
-produced by barectf is pure ANCI C (with one exception, see the current
+produced by barectf is pure ANSI C (with one exception, see the current
 limitations below) and can be lightweight enough to fit on a tiny
 microcontroller.
 
